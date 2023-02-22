@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Biswas</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="center" alt="coding" width="400" src="https://media.tenor.com/VyVCuuNxF7EAAAAC/ethereum-ethereum-crypto.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/VyVCuuNxF7EAAAAC/ethereum-ethereum-crypto.gif">
 
 <p align="left"> <a href="https://twitter.com/akashbtwts" target="blank"><img src="https://img.shields.io/twitter/follow/akashbtwts?logo=twitter&style=for-the-badge" alt="akashbtwts" /></a> </p>
 
