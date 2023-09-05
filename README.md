@@ -6,9 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/akashbtwts" target="blank"><img src="https://img.shields.io/twitter/follow/akashbtwts?logo=twitter&style=for-the-badge" alt="akashbtwts" /></a> </p>
 
-- 🔭 I’m currently working on **React based project**
-
-- 🌱 I’m currently learning **Blockchain development**
 
 - 💬 Ask me about **web2 , web3**
 
