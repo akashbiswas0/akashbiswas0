@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Biswas</h1>
-<h3 align="center">A passionate frontend developer</h3>
+
 <img align="right" width="400" src="https://media.tenor.com/VyVCuuNxF7EAAAAC/ethereum-ethereum-crypto.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbiswas0&label=Profile%20views&color=0e75b6&style=flat" alt="akashbiswas0" /> </p>
