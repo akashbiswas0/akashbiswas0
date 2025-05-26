@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Full Stack Developer with a focus on Web3 and AI technologies, proficient in JavaScript, TypeScript, Solidity, and REST APIs. Currently pursuing a Bachelor's in Computer Science at ABES Engineering College, I am passionate about building decentralized applications that address real-world challenges.
+Full Stack Developer with a focus on Web3 and AI technologies, proficient in JavaScript, TypeScript, Solidity, and REST APIs, passionate about building decentralized applications that address real-world challenges.
 
 ---
 
@@ -10,9 +10,9 @@ Full Stack Developer with a focus on Web3 and AI technologies, proficient in Jav
 - **TON Hacker House BLR**: $700 in Infra track
 - **ETHOnline 2024**: $2500 in Chiliz track
 - **Next Blockchain Startup Contest**: $2500 in SolarX track
-- **BNB-Q1 2024 Hackathon**: $666
+- **BNB-Q1 2024 Hackathon**: Potential prize award
 - **HackFS 2024**: Special Mention
-- **Elixir Hackathon**: $100 Bounty
+- **Elixir Hackathon**: Side Bounty
 - **Stellar Hackathon**: Top 3 Award
 - **Spheron Dappathon**
 
