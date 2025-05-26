@@ -6,10 +6,10 @@ Full Stack Developer with a focus on Web3 and AI technologies, proficient in Jav
 
 ## 🏆 Hackathon Wins
 
-- **Router Hacker House 2024**: $1000 in okto track
-- **TON Hacker House BLR**: $700 in Infra track
-- **ETHOnline 2024**: $2500 in Chiliz track
-- **Next Blockchain Startup Contest**: $2500 in SolarX track
+- **Router Hacker House 2024**: won in okto track
+- **TON Hacker House BLR**: 2nd in Infra track
+- **ETHOnline 2024**: 1st in Chiliz track
+- **Next Blockchain Startup Contest**: 2nd in SolarX track
 - **BNB-Q1 2024 Hackathon**: Potential prize award
 - **HackFS 2024**: Special Mention
 - **Elixir Hackathon**: Side Bounty
