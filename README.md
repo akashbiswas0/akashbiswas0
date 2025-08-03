@@ -6,6 +6,8 @@ Full Stack Developer with a focus on Web3 and AI technologies, proficient in Jav
 
 ## 🏆 Hackathon Wins
 
+- **Chiliz : vibe coding hack**: 1st place 
+- **Story protocol buildathon**: won in tomo sdk track
 - **Router Hacker House 2024**: won in okto track
 - **TON Hacker House BLR**: 2nd in Infra track
 - **ETHOnline 2024**: 1st in Chiliz track
