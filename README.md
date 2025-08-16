@@ -7,6 +7,7 @@ Full Stack Developer with a focus on Web3 and AI technologies, proficient in Jav
 ## 🏆 Hackathon Wins
 
 - **EtherLink - summer of code**: 2nd place
+- **Zora - coinathon**
 - **Chiliz - vibe coding hack**: 1st place 
 - **Story protocol buildathon**: won in tomo sdk track
 - **Router Hacker House 2024**: won in okto track
