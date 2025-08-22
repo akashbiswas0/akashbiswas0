@@ -40,7 +40,7 @@ Full Stack Developer with a focus on Web3 and AI technologies, proficient in Jav
 - **Backend**: Node.js, GraphQL, Ethers.js, Solana/Web3.js
 - **Programming Languages**: JavaScript, Solidity, Python
 - **Blockchains**: Ethereum, Solana, Chiliz
-- **Tools & SDKs**: IPFS, Chainlink, Wagmi, Viem, RainbowKit, Huddle01, Spheron, DataverseOS
+- **Tools & SDKs**: IPFS, Chainlink, Wagmi, Viem, RainbowKit
 
 ---
 
