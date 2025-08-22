@@ -18,7 +18,6 @@ Full Stack Developer with a focus on Web3 and AI technologies, proficient in Jav
 - **HackFS 2024**: Special Mention
 - **Elixir Hackathon**: Side Bounty
 - **Stellar Hackathon**: Top 3 Award
-- **Spheron Dappathon**
 
 ---
 
