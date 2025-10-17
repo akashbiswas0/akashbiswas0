@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Full Stack Developer with a focus on Web3 and AI technologies, proficient in JavaScript, TypeScript, Solidity, and REST APIs, passionate about building decentralized applications that address real-world challenges.
+Full Stack Web3 Developer 
 
 ---
 
@@ -21,7 +21,7 @@ Full Stack Developer with a focus on Web3 and AI technologies, proficient in Jav
 
 ---
 
-## 🌱 Projects
+## Projects
 
 ### Featured Projects
 
@@ -33,19 +33,10 @@ Full Stack Developer with a focus on Web3 and AI technologies, proficient in Jav
 
 ---
 
-## 👨‍💻 Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML, CSS, Bootstrap, Sass, Tailwind CSS, React.js, Next.js, TypeScript
 - **Backend**: Node.js, GraphQL, Ethers.js, Solana/Web3.js
 - **Programming Languages**: JavaScript, Solidity, Python
 - **Blockchains**: Ethereum, Solana, Chiliz
 - **Tools & SDKs**: IPFS, Chainlink, Wagmi, Viem, RainbowKit
-
----
-
-
-## 🌐 Connect with Me
-
-- **LinkedIn**: [Akash Biswas](https://www.linkedin.com/in/akash-biswas-aaa8a0190/)
-- **GitHub**: [akashbiswas0](https://github.com/akashbiswas0)
-- **Email**: akash8860biswas@gmail.com
