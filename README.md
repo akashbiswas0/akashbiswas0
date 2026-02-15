@@ -6,6 +6,8 @@ Full Stack Web3 Developer
 
 ## 🏆 Hackathon Wins
 
+- **ETH Global Hack Money**: SUI track
+- **SubZero Hack - Buenos Aires**: Won in Arkiv track
 - **EtherLink - summer of code**: 2nd place
 - **Zora - coinathon**
 - **Chiliz - vibe coding hack**: 1st place 
