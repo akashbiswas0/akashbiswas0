@@ -1,10 +1,10 @@
 # 👋 About Me
 
-Full Stack Web3 Developer 
+Full Stack Web3 Developer, 17x hackathon wins, 1x co-founder
 
 ---
 
-## 🏆 Hackathon Wins
+## Hackathon Wins
 
 - **ETH Global Hack Money**: SUI track
 - **SubZero Hack - Buenos Aires**: Won in Arkiv track
