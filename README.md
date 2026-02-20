@@ -1,11 +1,12 @@
 # 👋 About Me
 
-Full Stack Web3 Developer, 17x hackathon wins, 1x co-founder
+Full Stack Web3 Developer, 18x hackathon wins, 1x co-founder
 
 ---
 
 ## Hackathon Wins
 
+- **NearCon Innovation Sandbox**: PingPay track
 - **ETH Global Hack Money**: SUI track
 - **SubZero Hack - Buenos Aires**: Won in Arkiv track
 - **EtherLink - summer of code**: 2nd place
