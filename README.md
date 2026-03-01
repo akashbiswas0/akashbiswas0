@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Full Stack Web3 Developer, 18x hackathon wins, 1x co-founder
+Full Stack Web3 Developer, 18x hackathon wins
 
 ---
 
@@ -28,11 +28,12 @@ Full Stack Web3 Developer, 18x hackathon wins, 1x co-founder
 
 ### Featured Projects
 
-- **Fantoz**: A fan token-gated flash drops platform built on the Chiliz blockchain with IPFS integration for secure content storage.
-- **GreenWim**: A DePin project incentivizing solar panel installations, converting energy production into digital tokens for further incentivization.
-- **FxList**: A decentralized ICO platform deployed on the Fraxtal blockchain.
-- **BankWim**: Stake NFTs to earn interest, leverage as collateral, and participate in DAO decisions using Chainlink and Moralis.
-- **Bookverse**: Decentralized book publishing and selling platform using DataVerseOS.
+- **(Zarc)[https://zarc-intents.vercel.app]**: A private cross-chain swap app powered by Zcash + Intents that routes any token through Zcash for privacy
+- **(HushPerps)[https://hushperps.vercel.app]**: HUSH lets you manage collateral and trade through private notes (commitments) and zero-knowledge proofs on solana
+- **(PookieNode)[https://pookienode.com]**: Authentic geo checks from real phones worldwide
+- **(Trovio)[https://trovio.fun]**: Agentic sports trivia game on chiliz 
+- **(EtherBlinks)[https://etherblinks-pi.vercel.app]**: Programmable Micropayments for the AI Economy
+- **(Fantoz)[https://fantoz.vercel.app]**: A fan token-gated flash drops platform built on the Chiliz blockchain with IPFS integration for secure content storage
 
 ---
 
