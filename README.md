@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Full Stack Web3 Developer, 18x hackathon wins
+Full Stack Web3 Developer
 
 ---
 
