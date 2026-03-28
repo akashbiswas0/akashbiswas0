@@ -4,26 +4,6 @@ Full Stack Web3 Developer
 
 ---
 
-## Hackathon Wins
-
-- **NearCon Innovation Sandbox**: PingPay track
-- **ETH Global Hack Money**: SUI track
-- **SubZero Hack - Buenos Aires**: Won in Arkiv track
-- **EtherLink - summer of code**: 2nd place
-- **Zora - coinathon**
-- **Chiliz - vibe coding hack**: 1st place 
-- **Story protocol buildathon**: won in tomo sdk track
-- **Router Hacker House 2024**: won in okto track
-- **TON Hacker House BLR**: 2nd in Infra track
-- **ETHOnline 2024**: 1st in Chiliz track
-- **Next Blockchain Startup Contest**: 2nd in SolarX track
-- **BNB-Q1 2024 Hackathon**: Potential prize award
-- **HackFS 2024**: Special Mention
-- **Elixir Hackathon**: Side Bounty
-- **Stellar Hackathon**: Top 3 Award
-
----
-
 ## Projects
 
 ### Featured Projects
