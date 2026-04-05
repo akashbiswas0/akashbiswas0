@@ -11,13 +11,15 @@ Full Stack Web3 Developer
 - **[Klyp](https://klyp.trade)**: Social trading app built on the fee sharing model of bags.fm
 - **[Ember Wallet](https://github.com/akashbiswas0/ember-wallet)**: Ember is a consent-based smart contract wallet.
 - **[n-MLAT](https://github.com/akashbiswas0/n-MLAT)**: a decentralized aircraft localization system that uses multilateration to estimate live aircraft positions from distributed Mode-S observations
+- **[Hostr](hostr-beta.vercel.app)**: Hostr is a wallet-native event app built on Arkiv SDK.
+- **[Arkgram](https://arkgram.vercel.app)**: A decentralized social media platform built on Arkiv.
 - **[SubPay](https://subpay-beta.vercel.app)**: cross-chain payments, bill splitting, and shareable payment links built natively on Polkadot.
 - **[Zarc](https://zarc-intents.vercel.app)**: A private cross-chain swap app powered by Zcash + Intents that routes any token through Zcash for privacy.
 - **[Higher!!](https://higher-beta.vercel.app)**: Higher!! is a multiplayer crash game where players predict a multiplier (1.01x-10.00x) before the rocket crashes.
 - **[HushPerps](https://hushperps.vercel.app)**: HUSH lets you manage collateral and trade through private notes (commitments) and zero-knowledge proofs on Solana.
 - **[PookieNode](https://pookienode.com)**: Authentic geo checks from real phones worldwide.
-- **[Arkgram](https://arkgram.vercel.app)**: A decentralized social media platform built on Arkiv.
 - **[Medlo](https://medlo-beta.vercel.app)**: AI-IP tooling built on Story Protocol.
+- **[Agent Kit](https://www.npmjs.com/package/etherlink-agent-kit)**: Agent Kit for interacting with the Etherlink blockchain.
 - **[Trovio](https://trovio.fun)**: Agentic sports trivia game on Chiliz.
 - **[EtherBlinks](https://etherblinks-pi.vercel.app)**: Programmable micropayments for the AI economy.
 - **[Monity](https://github.com/akashbiswas0/Monity)** A comprehensive Model Context Protocol (MCP) server for migrating EVM applications to Monad blockchain with performance optimizations.
