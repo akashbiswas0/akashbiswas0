@@ -19,7 +19,7 @@ Full Stack Web3 Developer
 - **[HushPerps](https://hushperps.vercel.app)**: HUSH lets you manage collateral and trade through private notes and zk proofs on Solana.
 - **[PookieNode](https://pookienode.com)**: Authentic geo checks from real phones worldwide.
 - **[Medlo](https://medlo-beta.vercel.app)**: AI-IP tooling built on Story Protocol.
-- **[Agent Kit](https://www.npmjs.com/package/etherlink-agent-kit)**: Agent Kit for interacting with the Etherlink blockchain.
+- **[Agent Kit](https://www.npmjs.com/package/etherlink-agent-kit)**: Agent Kit for interacting with the EVM blockchain.
 - **[Trovio](https://trovio.fun)**: Agentic sports trivia game on Chiliz.
 - **[EtherBlinks](https://etherblinks-pi.vercel.app)**: Programmable micropayments for the AI economy.
 - **[Monity](https://github.com/akashbiswas0/Monity)** A comprehensive MCP server for migrating EVM applications to Monad blockchain with performance optimizations.
