@@ -14,7 +14,7 @@ Full Stack Web3 Developer
 - **[Hostr](hostr-beta.vercel.app)**: Hostr is a wallet-native event app built on Arkiv SDK.
 - **[Arkgram](https://arkgram.vercel.app)**: A decentralized social media platform built on Arkiv.
 - **[SubPay](https://subpay-beta.vercel.app)**: cross-chain payments, bill splitting, and shareable payment links built natively on Polkadot.
-- **[Zarc](https://zarc-intents.vercel.app)**: A private cross-chain swap app powered by Zcash + Intents that routes any token through Zcash for privacy.
+- **[Zarc](https://zarc-intents.vercel.app)**: A private cross-chain swap app powered by Near Intents that routes any token through Zcash for privacy.
 - **[Higher!!](https://higher-beta.vercel.app)**: Higher!! is a multiplayer crash game where players predict a multiplier (1.01x-10.00x) before the rocket crashes.
 - **[HushPerps](https://hushperps.vercel.app)**: HUSH lets you manage collateral and trade through private notes and zk proofs on Solana.
 - **[PookieNode](https://pookienode.com)**: Authentic geo checks from real phones worldwide.
