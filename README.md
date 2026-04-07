@@ -10,7 +10,7 @@ Full Stack Web3 Developer
 
 - **[Klyp](https://klyp.trade)**: Social trading app built on the fee sharing model of bags.fm
 - **[Ember Wallet](https://github.com/akashbiswas0/ember-wallet)**: Ember is a consent-based smart contract wallet.
-- **[n-MLAT](https://github.com/akashbiswas0/n-MLAT)**: a decentralized aircraft localization system that uses multilateration to estimate live aircraft positions from distributed Mode-S observations
+- **[n-MLAT](https://github.com/akashbiswas0/n-MLAT)**: a decentralized aircraft localization system that uses multilateration to estimate live aircraft positions.
 - **[Hostr](hostr-beta.vercel.app)**: Hostr is a wallet-native event app built on Arkiv SDK.
 - **[Arkgram](https://arkgram.vercel.app)**: A decentralized social media platform built on Arkiv.
 - **[SubPay](https://subpay-beta.vercel.app)**: cross-chain payments, bill splitting, and shareable payment links built natively on Polkadot.
