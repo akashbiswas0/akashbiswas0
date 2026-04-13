@@ -12,7 +12,7 @@ Full Stack Web3 Developer
 - **[PookieNode](https://pookienode.com)**: Authentic geo checks from real phones worldwide.
 - **[Trovio](https://trovio.fun)**: Agentic sports trivia game on Chiliz.
 
-### Projects 
+### More Projects 
 
 - **[Ember Wallet](https://github.com/akashbiswas0/ember-wallet)**: Ember is a consent-based smart contract wallet.
 - **[n-MLAT](https://github.com/akashbiswas0/n-MLAT)**: a decentralized aircraft localization system that uses multilateration to estimate live aircraft positions.
