@@ -14,6 +14,7 @@ Full Stack Web3 Developer
 
 ### More Projects 
 
+- **[Annie Companion](https://github.com/akashbiswas0/Annie-Companion)**: a macOS companion for screen-aware, voice-first AI help.
 - **[Ember Wallet](https://github.com/akashbiswas0/ember-wallet)**: Ember is a consent-based smart contract wallet.
 - **[n-MLAT](https://github.com/akashbiswas0/n-MLAT)**: a decentralized aircraft localization system that uses multilateration to estimate live aircraft positions.
 - **[Arkgram](https://arkgram.vercel.app)**: A decentralized social media platform built on Arkiv.
